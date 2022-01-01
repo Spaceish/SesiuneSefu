@@ -1,10 +1,10 @@
 {
-  "name": "zoom-clone",
+  "name": "sesiune-sef",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon server.js"
+    "start-sef": "node server.js"
   },
   "keywords": [],
   "author": "",
@@ -16,7 +16,4 @@
     "socket.io": "^2.3.0",
     "uuid": "^8.1.0"
   },
-  "devDependencies": {
-    "nodemon": "^2.0.4"
-  }
 }
